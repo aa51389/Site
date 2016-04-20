@@ -1,0 +1,18 @@
+body { 
+    background: #bcbcf2 no-repeat fixed center; 
+	text-align: center;
+	font: 15px arial, sans-serif;
+}
+h1 {
+    text-decoration: underline;
+}
+p.one {
+    font: 15px arial, sans-serif;
+}
+h1.one {
+    font: 30px arial, sans-serif;
+}
+h2.one {
+    font: 24px arial, sans-serif;
+}
+
